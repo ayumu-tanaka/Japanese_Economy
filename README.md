@@ -35,7 +35,7 @@ Campus tour
 
 ## Sunny day’s plan
 
-- Let's meet at 10:32 AM at the JR Mitake Station if it's sunny.
+- Let's meet at 10:32 AM at the JR Mitake Station if it's sunny. [Google Map](https://maps.app.goo.gl/LRSXM8NdhiL5VQJ39).
 
 - [Slides](Mt_Mitake/Mt_Mitake_v2.pdf)
   - To learn the relationship between the nature, culture, and tourism economy. 
