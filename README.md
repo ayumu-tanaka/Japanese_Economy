@@ -12,19 +12,20 @@ This course is prepared for the students of the National Chengchi University. Th
 
 - Let’s meet at 10 am at the main gate of AGU if it’s rainy. [Google Map](https://maps.app.goo.gl/FxCfnvQBFHNrZRFe9).
 
-10:20–10:50
+- Program
+  - 10:20–10:50
 Ayumu Tanaka. “Introduction to the Japanese Economy” [Slides](Slides/Japanese_Economy_slides.pdf)
 
-11:00–11:10
+  - 11:00–11:10
 Ms. Yang Fang. “The impact of female directors on corporate performance: an analysis of listed firms in Japan” [Slides](Students_Slides/Yang-Fang.pdf)
 
-11:20-11:30
+  - 11:20-11:30
 Ms. Keqi Zhang. "The Impact of a Carbon Tax on FDI from Japan: A DiD Analysis of Major Countries” [Slides](Students_Slides/Keqi-Zhang.pdf)
 
-11:40-12:20
+  - 11:40-12:20
 Lunch at the Cafeteria on Campus
 
-12:20-
+  - 12:20-
 Campus tour
 
 - Venue: Room 215 on the first floor of the University Building 2 at Aoyama Campus. Available for 9:00–12:30.
