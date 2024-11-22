@@ -27,7 +27,7 @@ Lunch at the Cafeteria on Campus
 12:20-
 Campus tour
 
-- Room 215 on the first floor of the University Building 2 at Aoyama Campus for 9:00–12:30.
+- Venue: Room 215 on the first floor of the University Building 2 at Aoyama Campus. Available for 9:00–12:30.
 - The above plan is subject to change.
 
 - Aoyama Gakuin University. [Aoyama Campus](https://www.aoyama.ac.jp/en/outline/aoyama_campus/)
