@@ -1,4 +1,4 @@
-# NCCU-AGU Joint Seminar: Japanese Economy
+# NCCU-AGU Joint Seminar on the Japanese Economy
 
 ## Description
 
@@ -38,6 +38,7 @@ Campus tour
 - Let's meet at 10:32 AM at the JR Mitake Station if it's sunny.
 
 - [Slides](Mt_Mitake/Mt_Mitake_v2.pdf)
+  - To learn the relationship between the nature, culture, and tourism economy. 
 
 **Train/Buses/Cable Car Time Table**
 - [JR Tokyo Station to JR Mitake Station](Mt_Mitake/10-32AM-Mitake-Station.pdf)
@@ -45,8 +46,8 @@ Campus tour
 - [JR Sawai Station to JR Tokyo Station](Mt_Mitake/05-16PM-Sawai-Station.pdf)
 
 **Links**
-- Mitake Tozan Railway. [Access Map](https://www.mitaketozan.co.jp/accessmap.html)
-- Sake Brewery. [Sawanoi](https://www.sawanoi-sake.com/)
+- [Mitake Tozan Railway](https://www.mitaketozan.co.jp/eng2014/index.html)
+- Ozawa brewery. [Sawanoi](http://www.sawanoi-sake.com/en/)
 
 ## Paticipants
 
