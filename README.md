@@ -44,13 +44,15 @@ Campus tour
 - [Mitakesan Station to JR Mitake Station](Mt_Mitake/02-10PM-Mitakesan-Station.pdf)
 - [JR Sawai Station to JR Tokyo Station](Mt_Mitake/05-16PM-Sawai-Station.pdf)
 
+- Mitake Tozan Railway. [Access Map](https://www.mitaketozan.co.jp/accessmap.html)
+- Sake Brewery. [Sawanoi](https://www.sawanoi-sake.com/)
 
 ## Paticipants
 
-- Prof. Brian Chi-ang Lin, National Chengchi University
+- Prof. [Brian Chi-ang Lin](https://pf.nccu.edu.tw/PageStaffing/Detail?fid=5063&id=1403), National Chengchi University
 - Ayumu Tanaka, Associate Professor, Aoyama Gakuin University
 
-- EDHEC Business School: 4, Vienna University of Economics and Business: 4, Paris 1 Panthéon Sorbonne: 4, Southern University of Denmark: 2, Copenhagen Business School: 2, University of Mannheim: 2, Bocconi University: 2, University of Cologne: 2, University of Vienna: 1, Warsaw School of Economics / SGH Warsaw School of Economics: 1, Université Libre de Bruxelles: 1, WHU: 1, Católica Lisbon School of Business & Economics: 1, Maastricht University: 1, EM Lyon Business School: 1, Vilnius University: 1, Université Grenoble Alpes: 1, University of Tübingen: 1, University of San Diego: 1, Université du Québec à Montréal: 1, Queensland University of Technology: 1, Corvinus University of Budapest: 1, Erasmus University Rotterdam School of Management: 1, Stockholm School of Economics: 1.
+- **NCCU**. EDHEC Business School: 4, Vienna University of Economics and Business: 4, Paris 1 Panthéon Sorbonne: 4, Southern University of Denmark: 2, Copenhagen Business School: 2, University of Mannheim: 2, Bocconi University: 2, University of Cologne: 2, University of Vienna: 1, Warsaw School of Economics / SGH Warsaw School of Economics: 1, Université Libre de Bruxelles: 1, WHU: 1, Católica Lisbon School of Business & Economics: 1, Maastricht University: 1, EM Lyon Business School: 1, Vilnius University: 1, Université Grenoble Alpes: 1, University of Tübingen: 1, University of San Diego: 1, Université du Québec à Montréal: 1, Queensland University of Technology: 1, Corvinus University of Budapest: 1, Erasmus University Rotterdam School of Management: 1, Stockholm School of Economics: 1.
 - Aoyama Gakuin University: 2
 
 
