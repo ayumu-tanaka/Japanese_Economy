@@ -30,6 +30,9 @@ Campus tour
 - Room 215 on the first floor of the University Building 2 at Aoyama Campus for 9:00–12:30.
 - The above plan is subject to change.
 
+- Aoyma Gakuin University. [Aoyama Campus](https://www.aoyama.ac.jp/en/outline/aoyama_campus/)
+
+
 ## Sunny day’s plan
 
 - Let's meet at 10:32 AM at the JR Mitake Station if it's sunny.
@@ -58,6 +61,5 @@ Campus tour
 
 - The Weather Channel. [10 Day Weather-Ome, Tokyo Prefecture, Japan](https://weather.com/weather/tenday/l/Ome+Tokyo+Prefecture+Japan?canonicalCityId=66b483fd485f101705ee8fc19250925c3f919aa1be723c6c184668fecffc2c05)
 
-- Aoyma Gakuin University. [Aoyama Campus](https://www.aoyama.ac.jp/en/outline/aoyama_campus/)
 
 
