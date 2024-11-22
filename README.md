@@ -44,6 +44,7 @@ Campus tour
 - [Mitakesan Station to JR Mitake Station](Mt_Mitake/02-10PM-Mitakesan-Station.pdf)
 - [JR Sawai Station to JR Tokyo Station](Mt_Mitake/05-16PM-Sawai-Station.pdf)
 
+**Links**
 - Mitake Tozan Railway. [Access Map](https://www.mitaketozan.co.jp/accessmap.html)
 - Sake Brewery. [Sawanoi](https://www.sawanoi-sake.com/)
 
