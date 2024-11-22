@@ -10,7 +10,7 @@ This course is prepared for the students of the National Chengchi University. Th
 Let’s meet at 10 am at the main gate of AGU if it’s rainy.
 
 10:20–10:50
-Ayumu Tanaka. “Introduction to the Japanese Economy” [Slides](Slides/02_Japanese_Economy_slides.pdf)
+Ayumu Tanaka. “Introduction to the Japanese Economy” [Slides](Slides/Japanese_Economy_slides.pdf)
 
 11:00–11:10
 Ms. Yang Fang. “The impact of female directors on corporate performance: an analysis of listed firms in Japan”
