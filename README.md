@@ -30,7 +30,7 @@ Campus tour
 - Room 215 on the first floor of the University Building 2 at Aoyama Campus for 9:00–12:30.
 - The above plan is subject to change.
 
-- Aoyma Gakuin University. [Aoyama Campus](https://www.aoyama.ac.jp/en/outline/aoyama_campus/)
+- Aoyama Gakuin University. [Aoyama Campus](https://www.aoyama.ac.jp/en/outline/aoyama_campus/)
 
 
 ## Sunny day’s plan
