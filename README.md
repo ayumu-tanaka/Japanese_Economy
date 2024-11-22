@@ -1,6 +1,6 @@
 # Japanese Economy
 
-## Description
+## Description: NCCU-AGU Joint Seminar
 
 This course is prepared for the students of the National Chengchi University. The course is designed to provide an overview of the Japanese economy. The course is divided into two parts. The first part is a lecture on the Japanese economy. The second part is a presentation by the students on the specific issues on Japanese economy.
 
