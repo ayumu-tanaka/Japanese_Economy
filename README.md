@@ -11,6 +11,7 @@ This course is prepared for the students of the National Chengchi University. Th
 ## Rainy day’s plan
 
 - Let’s meet at 10 am at the main gate of AGU if it’s rainy. [Google Map](https://maps.app.goo.gl/FxCfnvQBFHNrZRFe9).
+  - It is possible to come to Room 215 by yourself. Open for 9:00–12:30.
 
 - Program
   - 10:20–10:50
