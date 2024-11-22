@@ -13,7 +13,7 @@ Let’s meet at 10 am at the main gate of AGU if it’s rainy.
 Ayumu Tanaka. “Introduction to the Japanese Economy” [Slides](Slides/02_Japanese_Economy_slides.pdf)
 
 11:00–11:10
-Ms. Fang Yang. “The impact of female directors on corporate performance: an analysis of listed firms in Japan”
+Ms. Yang Fang. “The impact of female directors on corporate performance: an analysis of listed firms in Japan”
 
 11:20-11:30
 Ms. Keqi Zhang. "The Impact of a Carbon Tax on FDI from Japan: A DiD Analysis of Major Countries”
