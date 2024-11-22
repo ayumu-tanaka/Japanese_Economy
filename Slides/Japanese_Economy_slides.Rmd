@@ -22,7 +22,14 @@ knitr::opts_chunk$set(echo = TRUE,
 ```
 
 
+# My Background
 
+- I am an Associate Professor of Economics at Aoyama Gakuin University.
+- My research interests are in international trade, foreign direct investment, natural disaster, and cultural economics.
+- It means that I am not an expert on macroeconomics, but I am interested in the Japanese economy as an economist and as a citizen.
+- I first met Professor Lin in 2009 in Taipei, Taiwan, when I was a graduate student at Kyoto University.
+- Since then, I have met him in various occasions in Tokyo and Osaka.
+- I am very happy to have this opportunity to discuss on Japanese economy with students from NCCU today.
 
 # Introduction
 
@@ -86,7 +93,7 @@ Amiti, M., & Weinstein, D. E. (2011). Exports and financial shocks. \textit{The 
 - Junichiro Koizumi became the Prime Minister in 2001.
 - He implemented the structural reform, including the privatization of the postal service, the reform of the pension system, and the deregulation of the economy.
 - The economy started to recover, and the GDP growth rate increased.
-- However, the recovery was short-lived, and the economy went back to stagnation.
+- However, the recovery was short-lived, and the economy went back to stagnation. His reform produced non-regular workers, who are not protected by the traditional Japanese labor system.
 
 ![](Junichiro_Koizumi.jpg){width=20%}
 
@@ -106,6 +113,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Junichiro_Koizumi)
   2. fiscal stimulus, and
   3. structural reform.
 - The economy started to recover, and the GDP growth rate increased.
+- However, his policy did not solve the structural problems of the Japanese economy, i.e., low productivity growth.
 
 ![](Shinzo_Abe.jpg){width=20%}
 
@@ -193,10 +201,34 @@ Note: Ishinomaki, Miyagi Prefecture, in 2011
 # Electricity Generation
 
 - The figure shows that Japan has been relying on fossil fuels for electricity generation since the Fukushima nuclear accident.
-- Japan has been importing natural gas and coal from abroad. It has been increasing the trade deficit.
+- Japan has been importing natural gas, oil, and coal from abroad. It has been a factor increasing the trade deficit.
 
 \centering
 ![](electricity_en.jpg){width=70%}
 
 Source: <https://www.fepc.or.jp/nuclear/state/setsubi/index.html>
+
+# Other issues
+
+- Japanese economy has other issues, such as
+  - Aging population,
+  - Large government debt, and
+  - Scarce innovation.
+
+- Having severe economic problems, people lost confidence in the country. As a result, Japan face political issues, such as
+  - Growing nationalism and
+  - Populism.
+
+- SNS such as X (Twitter) have been used to spread fake news and hate speech.
+- Gender inequality is still a big issue in Japan. Typically, women change their family name after marriage. The reform of the laws that allow couples to have separate surnames face strong opposition from conservative groups. 
+
+
+# Conclusion
+
+- The Japanese economy has been stagnating for the past three decades. 
+- The problem is the low productivity growth rate, accompanied by population aging, large government debt, and scarce innovation.
+- It has even faced a challenge due to the suspension of nuclear power plants.
+- The government has implemented various policies, but the economy has not recovered. People do not believe in the government, making it difficult for the government to reduce the public debt.
+- The gender inequality should be improved in many aspects.
+
 
