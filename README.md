@@ -44,7 +44,7 @@ Campus tour
 
 **Train/Buses/Cable Car Time Table**
 - [JR Tokyo Station to JR Mitake Station](Mt_Mitake/10-32AM-Mitake-Station.pdf)
-- [Mitakesan Station to JR Mitake Station](Mt_Mitake/02-10PM-Mitakesan-Station.pdf)
+- [Mt.Mitake (Mitakesan Station) to JR Mitake Station](Mt_Mitake/02-10PM-Mitakesan-Station.pdf)
 - [JR Sawai Station to JR Tokyo Station](Mt_Mitake/05-16PM-Sawai-Station.pdf)
 
 **Links**
